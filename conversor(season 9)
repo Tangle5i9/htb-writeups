@@ -1,0 +1,3 @@
+Given, A machine with ip 10.10.11.92, and we can't access the site directly using the ip meaning that the machine may be using Name-Based Virtual Hosting.
+
+  Step-1: Now, at first for a web ctf we are supposed to use the nmap scan lets run it.
